@@ -1,0 +1,98 @@
+
+
+.hero{
+     background-image: url("photos/coffee_1.jpg");
+
+
+     background-repeat: no-repeat; 
+     background-size: cover;
+     height: 100vh;
+     background-position: center;
+
+}
+
+
+.topnav a{
+	float: right;
+	color: #f2f2f2;
+	text-align: left;
+	padding: 10px 20px;
+	text-decoration: none;
+	font-size: 20px;
+ 
+
+}
+
+.topnav a:hover {
+
+  background-color: lightblue;
+  color: black;
+
+}
+.topnav a.active{
+	background-color: green;
+	color: white;
+}
+
+.img-responsive{
+    max-width: 100%;
+
+}
+.hero_wrapper{
+
+	text-align: center;
+	 padding-top: 150px; 
+	
+
+}
+
+
+.partners {
+
+   width: 80%;
+   margin-right: auto;
+   margin-left: auto;
+  padding-top: 5px; 
+ 
+  
+}
+
+.name_parners {
+	float: left;
+    margin-left: .5rem;
+}
+
+.food{
+	width: 60%;
+	background-color: #ffe6ff;
+	text-align: center;
+
+}
+
+.delicious {
+
+	background-image: url('photos/restaurant-1.jpg');
+
+     background-repeat: no-repeat; 
+     text-align: center;
+     background-size: cover;
+     height: 100vh;
+     background-position: center;
+	 padding-top: 150px; 
+
+}
+
+.good {
+
+	background-image: url('photos/brick-wall-1834784_1920.jpg');
+
+    background-repeat: no-repeat;
+     background-size: cover;
+     height: 150vh;
+     background-position: center;
+    
+
+}
+.login{
+  background-color: palevioletred;
+}
